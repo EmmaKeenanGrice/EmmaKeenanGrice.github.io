@@ -1,0 +1,26 @@
+<!doctype html>
+
+<html>
+
+<head>
+
+<title> My Favorite Food </title>
+    </head>
+    
+    <h1> My Favorite Food! </h1>
+    <h2> Recipe name </h2>
+    <h3> ingredients and directions </h3>
+
+
+<body>
+
+<p>
+Recipe description
+</p>
+
+    <ul> ingredients </ul>
+    <ol> directions </ol>
+    
+</body>
+</html>  
+
