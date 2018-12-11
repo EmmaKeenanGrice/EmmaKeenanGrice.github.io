@@ -1,0 +1,55 @@
+html {
+    background-image: url(kitty.jpg)
+}
+
+body {
+    width: 800px;
+    padding: 20px;
+    padding-bottom: 20px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: 'Century Gothic', 'Helvetica', sans-serif;
+    border: 4px solid #FF8C00;
+    background-color: lightgray;
+}
+
+
+a{
+    font-size: 12pt;
+    color: dodgerblue;
+    text-decoration: none;
+    font-family: 'Century Gothic', 'Helvetica', sans-serif;
+}
+
+
+ahover {
+    color: goldenrod;
+}
+
+
+h1{
+    font-size: 36pt;
+    color: #000;
+    border-top: 4px dotted dodgerblue;
+    border-bottom: 4px dotted dodgerblue;
+    border-left: 4px dotted blue;
+    border-right: 4px dotted blue;
+     
+    text-transform: uppercase;
+}
+
+
+p{
+    font-size: 12pt;
+    line-height: 14pt;
+    font-family: 'Century Gothic';
+}
+
+img{
+    border: 6px solid #FF8C00;
+    box-shadow: 7px 7px 7px rgba(0,0,0,5);
+}
+
