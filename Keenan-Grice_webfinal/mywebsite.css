@@ -1,0 +1,61 @@
+html {
+    background-color: #B669AA;
+    background-image: url(webbanner.png);
+    background-position: top left;
+    background-size: 150px, 150px;
+    background-repeat: no-repeat;
+    margin: 20px;
+
+}
+
+a {
+    color: white;
+    font-family: "Rubik";
+    text-decoration: none;
+    font-size: 14pt;
+    text-align: center;
+
+}
+
+nav {
+    text-align: center;
+    padding-top: 10px;
+    font-family: "Rubik";
+    padding-bottom: 40px;
+
+}
+
+body {
+    padding-left: 100px;
+    padding-right: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+footer {
+    color: white;
+    font-family: "Rubik";
+    font-size: 14pt;
+    text-align: center;
+
+}
+
+p {
+    align-content: center;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 20px;
+    color: white;
+    font-family: "Montserrat";
+    font-size: 14pt;
+    text-align: left;
+}
+
+img {
+
+    align-content: center;
+    padding-left: 120px;
+    height: auto;
+    width: 600px;
+}
